@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Mirror Me.data.unityweb",
+"asmCodeUrl": "Mirror Me.asm.code.unityweb",
+"asmMemoryUrl": "Mirror Me.asm.memory.unityweb",
+"asmFrameworkUrl": "Mirror Me.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

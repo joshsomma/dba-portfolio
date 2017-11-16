@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Shield my Heart.data.unityweb",
+"asmCodeUrl": "Shield my Heart.asm.code.unityweb",
+"asmMemoryUrl": "Shield my Heart.asm.memory.unityweb",
+"asmFrameworkUrl": "Shield my Heart.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
